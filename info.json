@@ -1,0 +1,14 @@
+{
+    "name": "ArachnidsFactionSE",
+    "version": "1.1.5",
+    "title": "Arachnids as a Biter Faction. More SE compat",
+    "author": "Patachon & MnHebi",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": [
+	"base >= 0.18",
+	"! ArachnidsFaction >= 1.1.0"
+    ],
+    "description": "Would you like to know more? Same as Arachnids Faction but with little more Space Exploration compatibility."
+}
