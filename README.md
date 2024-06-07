@@ -1,6 +1,6 @@
 # Arachnids as a Biter Faction. More SE compat
 
-Factorio 1.1 mod adding arachnids faction. The mod is based on (https://mods.factorio.com/mod/ArachnidsFaction )[https://mods.factorio.com/mod/ArachnidsFaction]
+Factorio 1.1 mod adding arachnids faction. The mod is based on [https://mods.factorio.com/mod/ArachnidsFaction](https://mods.factorio.com/mod/ArachnidsFaction)
 and adds more compatibility with SpaceExploration.
 
 ## Current Features
